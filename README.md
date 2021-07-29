@@ -13,7 +13,7 @@ In order to measure the frequency and duty cycle of a square wave signal this im
 | pwm_input | STD_LOGIC | valid |STD_LOGIC |
 
 ## Block Diagram
-![Block diagram](img/block_diagram.png)
+![Block diagram](https://github.com/Avgerinos/pwm_detector/blob/56471504f2ce0407000d938f39584b426912ef69/img/block_diagram.PNG)
 
 ## How to measure signal characteristics
 ![](https://latex.codecogs.com/svg.latex?\Large&space;Frequency=\frac{clockfrequency}{signalcount}(Hz))
@@ -23,5 +23,5 @@ In order to measure the frequency and duty cycle of a square wave signal this im
 ![](https://latex.codecogs.com/svg.latex?\Large&space;PulsePeriod=\frac{pulsecount}{clockfrequenct}(sec))
 
 ## Simulation
-![Simulation](img/s.png)
+![Simulation](https://github.com/Avgerinos/pwm_detector/blob/56471504f2ce0407000d938f39584b426912ef69/img/s.PNG)
 
