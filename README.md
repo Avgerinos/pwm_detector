@@ -2,7 +2,7 @@
 
 Frequency and Duty cycle measurement on pwm signals.
 
-In order to measure the frequency and duty cycle of a square wave signal this implementation on VHDL counts how many clock cycles are between the rising and falling edge of the input signal. We can read these signals at the rising edge of the valid signal, and use them to make the calculations as follows. 
+In order to measure the frequency and duty cycle of a square wave signal this implementation in VHDL counts how many clock cycles are between the rising and falling edge of the input signal. We can read these signals at the rising edge of the valid signal, and use them to make the calculations as follows. 
 
 
 ## Inputs/Outputs
